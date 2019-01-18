@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21e3b056-3b79-4afe-9fc8-e34581c99b58" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/ex/no_days_in_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex/concate_names.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,16 +45,25 @@
         <entry file="file://$PROJECT_DIR$/sum_even_odd_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="no_days_in_month.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="no_days_in_month.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ex/no_days_in_month.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="264">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="concate_names.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex/concate_names.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -79,6 +88,7 @@
         <option value="$PROJECT_DIR$/common_factors.py" />
         <option value="$PROJECT_DIR$/sum_even_odd_numbers.py" />
         <option value="$PROJECT_DIR$/ex/no_days_in_month.py" />
+        <option value="$PROJECT_DIR$/ex/concate_names.py" />
       </list>
     </option>
   </component>
@@ -127,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.no_days_in_month">
+  <component name="RunManager" selected="Python.concate_names">
     <configuration name="common_factors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +156,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="concate_names" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +164,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex/concate_names.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,19 +229,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.hello" />
       <item itemvalue="Python.test_for" />
       <item itemvalue="Python.common_factors" />
       <item itemvalue="Python.sum_even_odd_numbers" />
       <item itemvalue="Python.no_days_in_month" />
+      <item itemvalue="Python.concate_names" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.concate_names" />
         <item itemvalue="Python.no_days_in_month" />
         <item itemvalue="Python.sum_even_odd_numbers" />
         <item itemvalue="Python.common_factors" />
         <item itemvalue="Python.test_for" />
-        <item itemvalue="Python.hello" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +262,7 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1963434" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18521462" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3167702" />
@@ -275,6 +285,41 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_for.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common_factors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sum_even_odd_numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/no_days_in_month.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/hello.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -397,14 +442,21 @@
     <entry file="file://$PROJECT_DIR$/sum_even_odd_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex/no_days_in_month.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        <state relative-caret-position="264">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex/concate_names.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
