@@ -10,5 +10,5 @@ def mul(a, b):
     return a * b
 
 
-process(10, 20, add(1,2))
+process(10, 20,lambda x,y : x + y)
 process(10, 20, mul)
