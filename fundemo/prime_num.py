@@ -3,6 +3,8 @@
 import sys
 import num_funs
 
+# sys.argv[1:] is to take all elements from 1st elements
+
 num = int(sys.argv[1])
 
 if num_funs.is_prime(num):
