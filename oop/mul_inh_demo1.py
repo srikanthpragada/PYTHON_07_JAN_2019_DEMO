@@ -1,17 +1,23 @@
-class A:
+
+class Common(object):
     def fun(self):
+        print('In Common')
+
+class A(Common):
+    def fun2(self):
         print('In A')
 
 
-class B:
+class B(Common):
     def fun(self):
         print('In B')
 
-
 class C(A,B):
-    def fun(self):
-        print('In C')
+    pass
+    # def fun(self):
+    #     print('In C')
 
 
 obj = C()
-obj.fun()
+print(C.mro())
+
