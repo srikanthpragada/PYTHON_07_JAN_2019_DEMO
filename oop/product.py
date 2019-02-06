@@ -1,3 +1,8 @@
+class InvalidPriceError(Exception):
+    def __init__(self):
+        self.message = "Invalid Price!"
+
+
 class Product:
     # Class attributes - static variable
     tax = 18
@@ -10,7 +15,9 @@ class Product:
     def __init__(self, name, price, qoh=0):
         # Object attributes
         self.name = name
-        self.price = price  # Name Wrangling
+        if price < 0:
+            raise InvalidPriceError()
+        self.price = price
         self.qoh = qoh
 
     # Methods
@@ -53,8 +60,13 @@ dp = DiscountProduct("Product 1", 10000, 5, 30)
 print(dp.net_price())
 
 # Create object
-p1 = Product("iPhone X", 80000, 10)
-print(p1.amount)
-print(p1.net_price())
-Product.set_tax(20)
-print(p1.net_price())
+# p1 = Product("iPhone X", 80000, 10)
+# print(p1.amount)
+# print(p1.net_price())
+# Product.set_tax(20)
+# print(p1.net_price())
+
+try:
+    p2 = Product("Abc", -80000, 10)
+except InvalidPriceError:
+    print("Sorry! Invalid price for product")

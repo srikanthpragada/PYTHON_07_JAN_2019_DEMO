@@ -6,7 +6,7 @@ while True:
             break
 
         sum += num
-    except ValueError:
+    except Exception as ex:
         pass
 
 
