@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="21e3b056-3b79-4afe-9fc8-e34581c99b58" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/libdemo/list_st_images.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libdemo/thread_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/libdemo/thread_demo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libdemo/top_pop_countries.py" beforeDir="false" afterPath="$PROJECT_DIR$/libdemo/top_pop_countries.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="even_number_generator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/oop/even_number_generator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list_python_files.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/list_python_files.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -80,19 +72,31 @@
       <file leaf-file-name="thread_demo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/thread_demo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="551">
+              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top_pop_countries.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="top_pop_countries.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/top_pop_countries.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="58">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="list_st_images.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/libdemo/list_st_images.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -165,12 +169,13 @@
         <option value="$PROJECT_DIR$/libdemo/persons.txt" />
         <option value="$PROJECT_DIR$/libdemo/thread_demo.py" />
         <option value="$PROJECT_DIR$/libdemo/top_pop_countries.py" />
+        <option value="$PROJECT_DIR$/libdemo/list_st_images.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="15" />
-    <option name="y" value="26" />
+    <option name="x" value="18" />
+    <option name="y" value="4" />
     <option name="width" value="1260" />
     <option name="height" value="720" />
   </component>
@@ -182,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,6 +208,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -224,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.top_pop_countries">
+  <component name="RunManager" selected="Python.list_st_images">
     <configuration name="list_persons" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,7 +266,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="name_freq" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list_st_images" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="demo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,7 +278,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/name_freq.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_st_images.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +321,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.name_freq" />
       <item itemvalue="Python.list_phones" />
       <item itemvalue="Python.list_persons" />
       <item itemvalue="Python.thread_demo" />
       <item itemvalue="Python.top_pop_countries" />
+      <item itemvalue="Python.list_st_images" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.list_st_images" />
         <item itemvalue="Python.top_pop_countries" />
         <item itemvalue="Python.thread_demo" />
         <item itemvalue="Python.list_persons" />
         <item itemvalue="Python.list_phones" />
-        <item itemvalue="Python.name_freq" />
       </list>
     </recent_temporary>
   </component>
@@ -352,13 +357,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10651828" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3090062" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.6195652" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32608697" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.52329195" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -377,13 +382,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/common_factors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sum_even_odd_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -722,17 +720,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/thread_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="551">
+          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/top_pop_countries.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="58">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libdemo/list_st_images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="10" column="24" lean-forward="true" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
